@@ -2,7 +2,13 @@
 
 # Pedigree Database Management System
 
-An Electron application with Vue
+# An Electron + Vue Application
+
+-------
+This pedigree database is a specialized database designed to store and manage information about the ancestry of purebred dogs. It essentially functions like a family tree, recording their lineage over several generations. Here's a breakdown of its key functions and purposes:
+Recording and Maintaining Information:
+The database stores details about individual dogs, including their breed, name, registration number, date of birth, and other relevant information.
+Crucially, it also records the parents, grandparents, and even further ancestors of each dog, creating a comprehensive lineage record.
 
 ## Recommended IDE Setup
 
@@ -36,7 +42,3 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 -------
-This pedigree database is a specialized database designed to store and manage information about the ancestry of purebred dogs. It essentially functions like a family tree, recording their lineage over several generations. Here's a breakdown of its key functions and purposes:
-Recording and Maintaining Information:
-The database stores details about individual dogs, including their breed, name, registration number, date of birth, and other relevant information.
-Crucially, it also records the parents, grandparents, and even further ancestors of each dog, creating a comprehensive lineage record.
